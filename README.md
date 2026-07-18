@@ -10,8 +10,8 @@ An interactive card gallery showcasing beautiful bird photographs. The project i
 - Simple and user-friendly interface
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Project Preview
 Hover over the cards to reveal the layered animation and explore different bird images.
